@@ -6,8 +6,8 @@
 - https://cyberchef.org
 - https://godbolt.org
 
-
-
+- https://www.tenouk.com/
+- https://www.winsocketdotnetworkprogramming.com/
 
 
 
