@@ -10,8 +10,8 @@
 - https://www.tenouk.com/
 - https://www.winsocketdotnetworkprogramming.com/
 
-https://github.com/cirosantilli/x86-assembly-cheat/
-https://www.codeproject.com/Articles/5304605/Creating-Shellcode-from-any-Code-Using-Visual-Stud
-https://www.arsouyes.org/blog/2019/54_Shellcode/
-https://reversingbinaries.in/
+- https://github.com/cirosantilli/x86-assembly-cheat/
+- https://www.codeproject.com/Articles/5304605/Creating-Shellcode-from-any-Code-Using-Visual-Stud
+- https://www.arsouyes.org/blog/2019/54_Shellcode/
+- https://reversingbinaries.in/
 
