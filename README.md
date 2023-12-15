@@ -6,4 +6,4 @@
 For example
 ***
 - https://godbolt.org
-- https://dogbolt.org/
+- https://dogbolt.org
