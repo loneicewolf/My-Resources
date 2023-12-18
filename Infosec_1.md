@@ -10,3 +10,5 @@
 - https://embeddedsw.net/Cipher_Reference_Home.html
 - https://embeddedsw.net/libObfuscate_Cryptography_Home.html
 
+### Reverse Shells
+- https://github.com/loneicewolf/ReverseShells
