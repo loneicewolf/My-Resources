@@ -7,7 +7,7 @@
 
 **bolts**
 - https://godbolt.org
-- https://dogbolt.org/
+- https://dogbolt.org
 
 **Embeddedsw**
 - https://embeddedsw.net/Cipher_Reference_Home.html
