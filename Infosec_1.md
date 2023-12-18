@@ -12,3 +12,7 @@
 
 ### Reverse Shells
 - https://github.com/loneicewolf/ReverseShells
+
+
+### ⚠️ Malware related ⚠️
+- https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering
