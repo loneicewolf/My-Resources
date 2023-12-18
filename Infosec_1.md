@@ -1,12 +1,15 @@
 # Infosec 1
 *Note some resources might not be exclusively infosec related but still good to know about*
 
+**other resources**
+- https://github.com/indetectables-net/toolkit
+- https://github.com/horsicq/Detect-It-Easy
+
 **bolts**
 - https://godbolt.org
 - https://dogbolt.org/
 
-**other resources**
-- https://github.com/indetectables-net/toolkit
+**Embeddedsw**
 - https://embeddedsw.net/Cipher_Reference_Home.html
 - https://embeddedsw.net/libObfuscate_Cryptography_Home.html
 
